@@ -1,0 +1,1 @@
+para o qr code funionar a biblioteca composer tem que ser instalada

@@ -1,0 +1,31 @@
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.exe
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.deps.json
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.runtimeconfig.json
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.runtimeconfig.dev.json
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.dll
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.pdb
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto_wagner_3_bi.Form1.resources
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.AssemblyInfo.cs
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.dll
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.pdb
+C:\Users\aluno\source\repos\projeto wagner 3 bi\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.genruntimeconfig.cache
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.exe
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.deps.json
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.runtimeconfig.json
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.runtimeconfig.dev.json
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.dll
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\bin\Debug\netcoreapp3.1\projeto wagner 3 bi.pdb
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.csproj.AssemblyReference.cache
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto_wagner_3_bi.Form1.resources
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.csproj.GenerateResource.cache
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.GeneratedMSBuildEditorConfig.editorconfig
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.AssemblyInfoInputs.cache
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.AssemblyInfo.cs
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.csproj.CoreCompileInputs.cache
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.dll
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.pdb
+R:\UNIVAP\2 ano\3 bimestre\PVB\projeto wagner 3 bi\obj\Debug\netcoreapp3.1\projeto wagner 3 bi.genruntimeconfig.cache

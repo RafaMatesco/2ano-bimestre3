@@ -1,0 +1,13 @@
+{
+    "name": "qrcode/cartao",
+    "description": "qrcode",
+    "authors": [
+        {
+            "name": "rafael"
+        }
+    ],
+    "require": {
+		"php": "^8.1.0",
+        	"chillerlan/php-qrcode": "dev-main"
+	}
+}

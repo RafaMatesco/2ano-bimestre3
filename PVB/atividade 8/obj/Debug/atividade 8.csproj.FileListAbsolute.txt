@@ -1,0 +1,10 @@
+R:\wagner\atividade 8\obj\Debug\atividade 8.csproj.AssemblyReference.cache
+R:\wagner\atividade 8\obj\Debug\atividade_8.Form1.resources
+R:\wagner\atividade 8\obj\Debug\atividade_8.Properties.Resources.resources
+R:\wagner\atividade 8\obj\Debug\atividade 8.csproj.GenerateResource.cache
+R:\wagner\atividade 8\obj\Debug\atividade 8.csproj.CoreCompileInputs.cache
+R:\wagner\atividade 8\bin\Debug\atividade 8.exe.config
+R:\wagner\atividade 8\bin\Debug\atividade 8.exe
+R:\wagner\atividade 8\bin\Debug\atividade 8.pdb
+R:\wagner\atividade 8\obj\Debug\atividade 8.exe
+R:\wagner\atividade 8\obj\Debug\atividade 8.pdb
