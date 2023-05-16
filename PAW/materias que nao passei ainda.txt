@@ -1,6 +1,0 @@
-21-bio1
-23,8-redacao
-22,7-BD
-21,9-PAW
-22,4-POOI
-22,6-PVB
